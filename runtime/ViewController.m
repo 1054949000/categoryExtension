@@ -45,7 +45,7 @@
     p.weight = 100;
     NSLog(@"%f",p.weight);
     
-    p.newName = @"new";
+    p.newName = @"newName";
     NSLog(@"%@",p.newName);
     
     UIView * view = [[UIView alloc]init];
